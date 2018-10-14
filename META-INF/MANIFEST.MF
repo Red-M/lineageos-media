@@ -1,0 +1,51 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+
+Name: META-INF/com/google/android/update-binary
+SHA1-Digest: e1KUVZ4/NHrA1yGjTf6c1yqWf/Y=
+
+Name: META-INF/com/google/android/updater-script
+SHA1-Digest: Lzl1y1cC6TvXytLj6okU81/P8AA=
+
+Name: system/priv-app/XiaomiDoze/XiaomiDoze.apk
+SHA1-Digest: Wxk+IOuUceuYKt70ibcu72WHgxw=
+
+Name: common/keycheck
+SHA1-Digest: d9R+n7eb9EA/3asBMPC0I39qzfA=
+
+Name: module.prop
+SHA1-Digest: PaItEvgosgFUZaej5twatBA6BGg=
+
+Name: common/system.prop
+SHA1-Digest: 7TnZoxe4jX3vocrbr/oRcPziZMQ=
+
+Name: common/unityfiles.tar.xz
+SHA1-Digest: 8ncXA3k0xcfJNRoZFwpKykYeEqg=
+
+Name: system/etc/sysconfig/google.xml
+SHA1-Digest: hifpQeTFNP09TjnR4K8aHf2ofAQ=
+
+Name: common/install.sh
+SHA1-Digest: p/cn0R/3sFRpGazXXa3F9C6/WO4=
+
+Name: common/uninstall.sh
+SHA1-Digest: p/cn0R/3sFRpGazXXa3F9C6/WO4=
+
+Name: .gitattributes
+SHA1-Digest: SKw0WMKyWo1XoYj5+4x7uSKnPSU=
+
+Name: README.md
+SHA1-Digest: VgYQL1XV9z7Sev1XIZtm0F7gscE=
+
+Name: common/service.sh
+SHA1-Digest: 3xTLpFOsR/69euWtgKbOLdycJD4=
+
+Name: config.sh
+SHA1-Digest: 6HUy7hxvMuq0yqYplUq3vPrErA8=
+
+Name: common/post-fs-data.sh
+SHA1-Digest: auUnViDbO1Df8hIVOG0285vyg80=
+
+Name: system/priv-app/Turbo/Turbo.apk
+SHA1-Digest: SiJN0ayMlk4QDWOHb5gbSZqJUaU=
+

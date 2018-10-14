@@ -1,7 +1,7 @@
-id=template
-name=Template Module
-version=v1
+id=lineageos-media
+name=LineageOS Media
+version=v1.0
 versionCode=1
-author=topjohnwu
-description=A short description
+author=JonasCardoso
+description=Systemless replace current ROM's ringtones, notifications, system sounds and boot animation from LineageOS.
 minMagisk=17000
