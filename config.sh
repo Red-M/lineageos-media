@@ -100,14 +100,14 @@ REPLACE="
 
 set_permissions() {
   # DEFAULT PERMISSIONS, DON'T REMOVE THEM
-    $MAGISK && set_perm_recursive $MODPATH/system/etc/sysconfig 0 0 0755 0644
+	$MAGISK && set_perm_recursive $MODPATH 0 0 0755 0644
 
   # CUSTOM PERMISSIONS
-	set_perm_recursive $SYS/media/audio/alarms 0 0 0755 0644
-	set_perm_recursive $SYS/media/audio/notifications 0 0 0755 0644
-	set_perm_recursive $SYS/media/audio/ringtones 0 0 0755 0644
-	set_perm_recursive $SYS/media/audio/ui 0 0 0755 0644
-	set_perm_recursive $SYS/media/bootanimation.zip 0 0 0644
+	set_perm_recursive $UNITY$SYS/media/audio/alarms 0 0 0755 0644
+	set_perm_recursive $UNITY$SYS/media/audio/notifications 0 0 0755 0644
+	set_perm_recursive $UNITY$SYS/media/audio/ringtones 0 0 0755 0644
+	set_perm_recursive $UNITY$SYS/media/audio/ui 0 0 0755 0644
+	set_perm_recursive $UNITY$SYS/media/bootanimation.zip 0 0 0644
   # Some templates if you have no idea what to do:
   # Note that all files/folders have the $UNITY prefix - keep this prefix on all of your files/folders
   # Also note the lack of '/' between variables - preceding slashes are already included in the variables
